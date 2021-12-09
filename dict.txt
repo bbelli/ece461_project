@@ -1,0 +1,1 @@
+{"ramp_up": 0.2, "correctness": 0.2, "bus_factor": 0.3, "responsiveness": 0.1, "license": 0.1, "dependency": 0.2, "score": 1.0999999999999999}

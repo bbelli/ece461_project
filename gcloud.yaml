@@ -1,0 +1,5 @@
+cloud_sql_vars:
+  - CLOUD_SQL_USERNAME: 'root'
+  - CLOUD_SQL_PASSWORD: 'afUygTxtFtKmVMQq'
+  - CLOUD_SQL_DATABASE_NAME: 'registry'
+  - CLOUD_SQL_CONNECTION_NAME: 'ece461proj2trustmoduleregistry:us-east1:package-info'

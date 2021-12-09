@@ -1,0 +1,6 @@
+2021-12-09 02:55:57.667534: [WARNING] No license found for repository 'cloudinary_npm'
+2021-12-09 02:55:57.667660: [TRACE  ] 'cloudinary_npm' repository is downloaded
+2021-12-09 02:55:57.667707: [TRACE  ] Repository list is created, contains repositories: ['cloudinary_npm', ]
+2021-12-09 02:55:57.667776: [TRACE  ] Metrics are created, contains metrics: ['RAMP_UP_SCORE', 'CORRECTNESS_SCORE', 'BUS_FACTOR_SCORE', 'RESPONSIVE_MAINTAINER_SCORE', 'LICENSE_SCORE', 'DEPENDENCY_SCORE', ]
+2021-12-09 02:56:00.136607: [TRACE  ] Repository 'cloudinary_npm' has overall score of 1.0999999999999999
+2021-12-09 02:56:00.136713: [TRACE  ] final scores: [<score.Node object at 0x7f1483f36610>, ]
